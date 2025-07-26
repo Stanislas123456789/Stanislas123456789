@@ -37,11 +37,10 @@ GTM · CRM · Notion · Figma
 
 **Languages**:  
 
----
 Native - French 
----
+
 C1 - English · German 
----
+
 B2 - Portuguese · Spanish 
 
 ---

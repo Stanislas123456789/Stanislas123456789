@@ -1,5 +1,4 @@
 # 👋 Hi, I’m [Stan](https://www.linkedin.com/in/stanislas-michel/)
-*Tech-minded Entrepreneur in the Making*
 
 ---
 

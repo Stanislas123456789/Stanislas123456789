@@ -36,6 +36,8 @@ Global Macro · Valuation · Derivatives · Risk Models
 GTM · CRM · Notion · Figma   
 
 **Languages**:  
+
+---
 Native - French 
 ---
 C1 - English · German 

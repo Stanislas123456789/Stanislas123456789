@@ -3,8 +3,7 @@
 ---
 
 ## About Me  
-- Double Degree Student @ **ESSEC (Finance)** & **FGV (Maths & CS)**  
-- Building in AI
+- Double Degree  @ **ESSEC (Finance)** & **FGV (Maths & CS)**  
 - Co-Founder @ [**EuroTech Federation**](https://www.linkedin.com/company/eurotech-federation/?viewAsMember=true) : the first deeptech community bringing together the best European builders and reseachers.
 - Board Member @ [**Unaite**](https://www.linkedin.com/company/federation-unaite/posts/?feedView=all) - Group of artificial intelligence clubs (X, CS, HEC, ESSEC) 
 - ex President @ [**Kryptosphere ESSEC**](https://www.linkedin.com/company/kryptosphere/posts/?feedView=all) — largest Web3 community in Europe

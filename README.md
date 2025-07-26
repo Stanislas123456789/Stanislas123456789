@@ -25,7 +25,7 @@
 ## 💡 Skills & Stack  
 
 **Tech**:  
-`Python` · `scikit-learn`· `Pytorch`· `LangChain` · `SQL` · `Git`  · `Move`  · `Solidity`  
+`Python` · `scikit-learn`· `Pytorch`· `LangChain` · `SQL` · `Git`  · `Move`  
 
 **Growth / Product**:  
 GTM · UX/ UI · Applied AI

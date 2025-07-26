@@ -33,8 +33,8 @@ GTM · UX/ UI · Applied AI
 **Languages**:  
 
 - Native: French 
-- C1 - English · German 
-- B2 - Portuguese · Spanish 
+- C1: English · German 
+- B2: Portuguese · Spanish 
 
 ---
 

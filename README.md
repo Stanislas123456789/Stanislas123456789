@@ -4,7 +4,7 @@
 ---
 
 ## About Me  
-- Double Degree Student @ **ESSEC (Finance)** & **FGV Rio (AI / ML)**  
+- Double Degree Student @ **ESSEC (Finance)** & **FGV (Maths & CS)**  
 - Building in AI
 - Co-Founder @ [**EuroTech Federation**](https://www.linkedin.com/company/eurotech-federation/?viewAsMember=true) : the first deeptech community bringing together the best European builders and reseachers.
 - Board Member @ [**Unaite**](https://www.linkedin.com/company/federation-unaite/posts/?feedView=all) - Group of artificial intelligence clubs (X, CS, HEC, ESSEC) 

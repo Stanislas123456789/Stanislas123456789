@@ -28,11 +28,8 @@
 **Tech**:  
 `Python` · `scikit-learn`· `Pytorch`· `LangChain` · `SQL` · `Git`  · `Move`  · `Solidity`  
 
-**Finance**:  
-Global Macro · Valuation · Derivatives · Risk Models 
-
 **Growth / Product**:  
-GTM · CRM · Notion · Figma   
+GTM · UX/ UI · Applied AI
 
 **Languages**:  
 

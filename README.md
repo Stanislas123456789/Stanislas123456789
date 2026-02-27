@@ -2,8 +2,8 @@
 
 ## Academics
 
-- Double Degree @ ESSEC Business School (Finance)
-- FGV (Mathematics & Computer Science / ML).
+- ESSEC (Finance)
+- Double Degree @ FGV (Mathematics & Computer Science / ML).
 ---
 
 ## Current

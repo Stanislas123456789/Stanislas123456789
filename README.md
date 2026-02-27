@@ -8,7 +8,7 @@
 
 ## Current
 
-- **Founder Associate — GTM** @ [Alpic.ai](https://alpic.ai) — MCP hosting infrastructure ("Vercel for MCP servers"). Working on go-to-market, partnerships, and growth strategy for AI deployment tooling.
+- **Founder Associate — GTM** @ [Alpic.ai](https://alpic.ai) — MCP hosting infrastructure ("Vercel for MCP servers"). Working on Solution Scoping (Pre-Sales & Post-Sales), GTM Engineering and Automations.
 - **Co-Founder** @ [EuroTech Federation](https://www.linkedin.com/company/eurotech-federation/) — deeptech community connecting European builders and researchers across AI, Web3, and hard tech.
 - **Board Member** @ [Unaite](https://www.linkedin.com/company/federation-unaite/) — cross-institutional AI federation (École Polytechnique, CentraleSupélec, HEC, ESSEC).
 

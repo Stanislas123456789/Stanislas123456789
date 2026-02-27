@@ -1,7 +1,9 @@
 # 👋 Hi, I’m [Stan](https://www.linkedin.com/in/stanislas-michel/)
 
-Double Degree @ ESSEC Business School (Finance) & FGV (Mathematics & Computer Science / ML).
-Currently building at the intersection of AI systems and developer infrastructure.
+## Academics
+
+- Double Degree @ ESSEC Business School (Finance)
+- FGV (Mathematics & Computer Science / ML).
 ---
 
 ## Current

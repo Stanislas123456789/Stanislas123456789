@@ -1,47 +1,53 @@
 # 👋 Hi, I’m [Stan](https://www.linkedin.com/in/stanislas-michel/)
 
+Double Degree @ ESSEC Business School (Finance) & FGV (Mathematics & Computer Science / ML).
+Currently building at the intersection of AI systems and developer infrastructure.
 ---
 
-## About Me  
-- Double Degree  @ **ESSEC (Finance)** & **FGV (Maths & CS)**  
-- Co-Founder @ [**EuroTech Federation**](https://www.linkedin.com/company/eurotech-federation/?viewAsMember=true) : the first deeptech community bringing together the best European builders and reseachers.
-- Board Member @ [**Unaite**](https://www.linkedin.com/company/federation-unaite/posts/?feedView=all) - Group of artificial intelligence clubs (X, CS, HEC, ESSEC) 
-- ex President @ [**Kryptosphere ESSEC**](https://www.linkedin.com/company/kryptosphere/posts/?feedView=all) — largest Web3 community in Europe
+## Current
 
----
-
-## 🧑‍💻 What I’ve Built / Organized  
-
-| 🏆 Hackathon                              | 🧠 Project                                   | 📅 When       |
-|------------------------------------------|-------------------------------------------|---------------|
-| [ManusAI Hack](https://lu.ma/01jaf7pr?tk=ahZgom)        | *AI Agent for Prospection Campaigns*             | Jul 2025     |
-| [EuroTech Summit](https://www.linkedin.com/posts/stanislas-michel-675b18224_my-dream-is-to-provide-a-general-agent-using-activity-7350426361880014849-Q223?utm_source=share&utm_medium=member_desktop&rcm=ACoAADhoDrkBm_dNvAP1TjE7Cir_2zxRa9go8p0)       | *Organiser (Panel with CPO @ManusAI & CEO @Project Europe*)          | Jul 2025     |
-| [From LLMs to Agentic AI](https://lu.ma/shun5uky)                 | *Organiser (Raised 14k€ and secured partnerships with AWS, MistralAI & Nvidia)*              | Apr 2025      |
-| [SUI x BSA Student Hackathon](https://sui-x-bsa-student-hackathon-v.devfolio.co/) | *Web3-powered dating app that fosters genuine connections*       | Oct 2024      |
-| [HackinDau DeFi Hackathon](https://dauphine.psl.eu/dauphine/media-et-communication/article/hackindau-hackathon-blockchain-2024-de-la-chaire-fintech-et-kryptosphere)  | *ZK Crosschain Collateral Tool*                 | Sep 2024      |
+- **Founder Associate — GTM** @ [Alpic.ai](https://alpic.ai) — MCP hosting infrastructure ("Vercel for MCP servers"). Working on go-to-market, partnerships, and growth strategy for AI deployment tooling.
+- **Co-Founder** @ [EuroTech Federation](https://www.linkedin.com/company/eurotech-federation/) — deeptech community connecting European builders and researchers across AI, Web3, and hard tech.
+- **Board Member** @ [Unaite](https://www.linkedin.com/company/federation-unaite/) — cross-institutional AI federation (École Polytechnique, CentraleSupélec, HEC, ESSEC).
 
 ---
 
-## 💡 Skills & Stack  
+## Deep Learning Projects
 
-**Tech**:  
-`Python` · `scikit-learn`· `Pytorch`· `LangChain` · `SQL` · `Git`  · `Move`  
+| Project | Methods | Description |
+|---------|---------|-------------|
+| [**LoRA Fine-Tuning**](https://www.linkedin.com/posts/stanislas-michel-675b18224_lora-paper-research-project-activity-7344258269663657987-1AiV/) | Low-Rank Adaptation, PEFT | Parameter-efficient fine-tuning of LLMs using low-rank matrix decomposition. Benchmarked rank sensitivity and downstream task performance vs full fine-tuning. |
+| [**Semi-Supervised Learning — FixMatch**](https://github.com/Stanislas123456789/FixMatch---Deeplearning) | Pseudo-labeling, Consistency Regularization, RandAugment | Implemented FixMatch from scratch. Trained on partially labeled CIFAR-10; studied the impact of confidence thresholds and augmentation strength on pseudo-label quality. |
+| [**Semantic Segmentation — U-Net vs DeepLabV3**](https://www.linkedin.com/posts/stanislas-michel-675b18224_imagine-looking-at-a-city-street-and-being-activity-7382014536981159936-KkUv/) | Encoder-Decoder, Atrous Convolution, ASPP | Side-by-side comparison of U-Net and DeepLabV3+ on a segmentation benchmark. Analyzed trade-offs in receptive field design, skip connections, and boundary precision. |
+| [**SAM for Medical Imaging**](https://github.com/Stanislas123456789/SAM-Fine-Tuning-for-Medical-Imaging-/tree/main) | Vision Transformer, Frozen Encoder, Transfer Learning | Fine-tuned Segment Anything Model (ViT-B) on Kvasir-SEG (gastrointestinal polyp segmentation). Froze SAM's image encoder; trained a lightweight UNet-style decoder on top. |
+| [**Data Filtering for Pre-Training**](https://www.linkedin.com/posts/stanislas-michel-675b18224_not-all-tokens-are-what-you-need-activity-7398676803420069889-ACgV/) | Deduplication, Quality Scoring, Dataset Curation | Investigated data selection strategies for LLM pre-training pipelines. Explored perplexity-based filtering, deduplication at scale, and the effect of data quality on downstream benchmarks. |
 
-**Growth / Product**:  
-GTM · UX/ UI · Applied AI
-
-**Languages**:  
-
-- Native: French 
-- C1: English · German 
-- B2: Portuguese · Spanish 
+**Stack:** `Python` · `PyTorch` · `torchvision` · `segment-anything` · `HuggingFace` · `PEFT` · `scikit-learn`
 
 ---
 
-## 📬 Let’s Connect  
+## Events & Community
 
-|   | Link                                                       |
-|-----------|------------------------------------------------------------|
-| LinkedIn  | [Stanislas Michel](https://www.linkedin.com/in/stanislas-michel/) |
-| Email     | stanislas.michel@essec.edu                                 |
+| Event | Role | Partners |
+|-------|------|----------|
+| [Mistral AI Worldwide Hackathon](https://lu.ma/) — 7 cities (Paris, London, NYC, SF, Tokyo, Singapore, Sydney) | Organiser | Mistral AI · NVIDIA · ElevenLabs |
+| [EuroTech Summit](https://www.linkedin.com/posts/stanislas-michel-675b18224_my-dream-is-to-provide-a-general-agent-using-activity-7350426361880014849-Q223) — Panel with CPO @ManusAI & CEO @Project Europe | Organiser | — |
+| [From LLMs to Agentic AI](https://lu.ma/shun5uky) — 14k€ raised | Organiser | AWS · Mistral AI · NVIDIA |
+| [ManusAI Hack](https://lu.ma/01jaf7pr?tk=ahZgom) — AI Agent for Prospection Campaigns | Participant | — |
+| [SUI × BSA Student Hackathon](https://sui-x-bsa-student-hackathon-v.devfolio.co/) — Web3 dating app | Participant | SUI Foundation |
+| [HackinDau DeFi Hackathon](https://dauphine.psl.eu/dauphine/media-et-communication/article/hackindau-hackathon-blockchain-2024-de-la-chaire-fintech-et-kryptosphere) — ZK Crosschain Collateral | Participant | Chaire FinTech · Kryptosphere |
 
+---
+
+## Skills
+
+**ML / DL:** PyTorch · Transformers · LoRA / PEFT · Semantic Segmentation · Semi-Supervised Learning · Computer Vision  
+**Software:** Python · SQL · Git · LangChain · Move  
+**GTM / Product:** Go-To-Market · Growth Strategy · Applied AI · UX/UI  
+**Languages:** French (native) · English C1 · German C1 · Portuguese B2 · Spanish B2
+
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/stanislas-michel/) · stanislas.michel@essec.edu

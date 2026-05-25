@@ -36,7 +36,7 @@
 | [EuroTech Summit](https://www.linkedin.com/posts/stanislas-michel-675b18224_my-dream-is-to-provide-a-general-agent-using-activity-7350426361880014849-Q223) — Panel with CPO @ManusAI & CEO @Project Europe | Organiser | — |
 | [From LLMs to Agentic AI](https://lu.ma/shun5uky) — 14k€ raised | Organiser | AWS · Mistral AI · NVIDIA |
 | [ManusAI Hack](https://lu.ma/01jaf7pr?tk=ahZgom) — AI Agent for Prospection Campaigns | Participant | — |
-| [SUI × BSA Student Hackathon](https://sui-x-bsa-student-hackathon-v.devfolio.co/) — Web3 dating app | Participant | SUI Foundation |
+| [EPFL SUI × BSA Student Hackathon](https://sui-x-bsa-student-hackathon-v.devfolio.co/) — Web3 dating app | Participant | SUI Foundation |
 | [HackinDau DeFi Hackathon](https://dauphine.psl.eu/dauphine/media-et-communication/article/hackindau-hackathon-blockchain-2024-de-la-chaire-fintech-et-kryptosphere) — ZK Crosschain Collateral | Participant | Chaire FinTech · Kryptosphere |
 
 ---

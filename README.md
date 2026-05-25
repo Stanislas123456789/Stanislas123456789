@@ -28,7 +28,7 @@
 
 ---
 
-## Events & Community
+## Hackathons & Events 
 
 | Event | Role | Partners |
 |-------|------|----------|
